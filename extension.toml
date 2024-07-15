@@ -1,0 +1,11 @@
+id = "ron"
+name = "RON"
+version = "0.0.1"
+schema_version = 1
+authors = ["onbjerg <hi@notbjerg.me>"]
+description = "Provides RON Syntax Highlighting"
+repository = "https://github.com/onbjerg/zed-ron"
+
+[grammars.ron]
+repository = "https://github.com/zee-editor/tree-sitter-ron"
+commit = "7762d709a0f7c1f9e269d0125a2e8a7a69006146"
